@@ -1,0 +1,102 @@
+.custom-picture {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.heart {
+  animation: heartbeat 1s infinite
+}
+
+@keyframes heartbeat {
+  0% {
+    transform: scale(1);
+  }
+  14% {
+    transform: scale(1.3);
+  }
+  28% {
+    transform: scale(1);
+  }
+  42% {
+    transform: scale(1.3);
+  }
+  70% {
+    transform: scale(1);
+  }
+}
+
+.heart-q {
+  animation: heartbeatq 1s infinite
+}
+
+@keyframes heartbeatq {
+  0% {
+    transform: scale(1);
+  }
+  14% {
+    transform: scale(1.3);
+  }
+  42% {
+    transform: scale(1.3);
+  }
+  70% {
+    transform: scale(1);
+  }
+}
+
+.heart-m {
+  animation: heartbeatm 1s infinite
+}
+
+@keyframes heartbeatm {
+  0% {
+    transform: scale(1);
+  }
+  14% {
+    transform: scale(1.3);
+  }
+  28% {
+    transform: scale(1);
+  }
+  70% {
+    transform: scale(1);
+  }
+}
+
+/* .lightning {
+  position: absolute;
+  animation: lightning-flash 2s infinite ease-in-out;
+  opacity: 0;
+}
+
+.lightning.top-left {
+  top: 0;
+  left: 0;
+  transform: scale(0.8);
+}
+
+.lightning.bottom-right {
+  bottom: 0;
+  right: 0;
+  transform: scale(0.8) rotate(180deg);
+}
+
+@keyframes lightning-flash {
+  0%, 100% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  20% {
+    opacity: 0.5;
+  }
+  30% {
+    opacity: 1;
+  }
+  40% {
+    opacity: 0;
+  }
+} */

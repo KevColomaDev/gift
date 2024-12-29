@@ -1,0 +1,32 @@
+<svg
+  width="80"
+  height="80"
+  viewBox="0 0 100 100"
+  xmlns="http://www.w3.org/2000/svg"
+  className="lightning"
+>
+  <polyline
+    points="50,0 55,20 45,40 60,60 50,80"
+    stroke="white"
+    stroke-width="2"
+    fill="none"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+  <polyline
+    points="30,10 40,30 20,50 40,70"
+    stroke="white"
+    stroke-width="1.5"
+    fill="none"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+  <polyline
+    points="70,10 65,30 75,50 65,70"
+    stroke="white"
+    stroke-width="1.5"
+    fill="none"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+</svg>
