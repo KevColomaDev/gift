@@ -58,7 +58,7 @@ export const Card = () => {
         <img className="heart" src={heart} alt="Heart" />
       </div>
       <div
-        className="border-8 border-solid border-white w-[400px] h-[600px] overflow-hidden"
+        className="border-8 border-solid border-white w-[300px] h-[500px] overflow-hidden"
         onClick={() => {
           nextPic();
           playAudio();
