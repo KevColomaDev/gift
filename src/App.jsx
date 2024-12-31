@@ -79,7 +79,7 @@ function App() {
           <h2 className="text-xl font-bold">Bueno ahora entiendo, me wua llorar 😔</h2>
           <img src={brokenHeart} alt="heart" className="heart-q" />
           <iframe 
-            width={"560"}
+            width={"300"}
             height={"315"}
             src="https://www.youtube.com/embed/WznOYgm8KqY?autoplay=1&mute=0"
             title="YouTube video player"

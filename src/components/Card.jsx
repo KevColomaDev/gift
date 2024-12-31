@@ -19,7 +19,6 @@ export const Card = () => {
   const phrases = [
     "Hay algo especial en ti que me atrae muchísimo, y no quería guardármelo más",
     "Quiero ser honesto contigo: me gustas mucho y siento que me encanta pasar tiempo contigo",
-    "Eres alguien que realmente me inspira y me hace feliz. Creo que me estoy enamorando de ti",
     "Cada vez que estoy contigo, siento que el tiempo pasa volando. Me encantas",
     "Me gusta la forma en que haces que las cosas simples se sientan mágicas",
     "Eres como el Wi-Fi: cuando estás cerca, todo funciona mejor",
